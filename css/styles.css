@@ -1,0 +1,42 @@
+/****TAG SELECTORS****/
+body {
+  background-color: #fcf1f1;
+  text-align: center;
+}
+hr {
+  border-color: #ffd5cd;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #1a1c20;
+}
+h3 {
+  color: #f9813a;
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+div
+{
+  background-color: #fcf1f1;
+  height: 100vh;
+  vertical-align: middle;
+}
+/****ID SELECTORS****/
+#intro {
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
